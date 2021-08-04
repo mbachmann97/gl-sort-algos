@@ -1,0 +1,5 @@
+﻿  Code wird generiert.
+c:\users\ma_ba\source\repos\bubblesortopengl\bubblesortopengl\window.cpp(80): warning C4715: "Window::initialize": Nicht alle Codepfade geben einen Wert zurück.
+  All 606 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  BubblesortOpenGL.vcxproj -> C:\Users\ma_ba\source\repos\BubblesortOpenGL\Release\BubblesortOpenGL.exe
